@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="src/Application/FieldOps.Services/FieldOps.Services.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="src/Domain/FieldOps.Entity/FieldOps.Entity.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="src/Infrastructure/FieldOps.Repository/FieldOps.Repository.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="src/Presentation/FiledOps.RestApi/FiledOps.RestApi.csproj" Id="c126edc3-5046-42fa-ae65-a183ffc5e5d5" />
+  </Folder>
+  <Properties Name="SolutionProperties">
+    <Property Name="WorkspaceFolder" Value="." />
+  </Properties>
+</Solution>

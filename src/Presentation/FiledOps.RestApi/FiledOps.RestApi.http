@@ -1,0 +1,6 @@
+@FiledOps.RestApi_HostAddress = http://localhost:5172
+
+GET {{FiledOps.RestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
