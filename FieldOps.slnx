@@ -9,6 +9,9 @@
     <Project Path="src/Infrastructure/FieldOps.Repository/FieldOps.Repository.csproj" />
   </Folder>
   <Folder Name="/Presentation/">
+    <Project Path="src/Presentation/FiledOps.MAUI/FiledOps.MAUI.csproj" Id="334365f0-64e6-4478-97e9-65878f3e6189">
+      <Deploy Solution="Debug|*" />
+    </Project>
     <Project Path="src/Presentation/FiledOps.RestApi/FiledOps.RestApi.csproj" Id="c126edc3-5046-42fa-ae65-a183ffc5e5d5" />
   </Folder>
   <Properties Name="SolutionProperties">
